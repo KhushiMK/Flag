@@ -1,2 +1,2 @@
 # Flag
-I have create two flag one is of laos and second one of india
+I have successfully created two flags using HTML and CSS: one representing Laos and the other representing India. 
